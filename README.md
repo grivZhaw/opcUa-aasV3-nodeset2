@@ -1,12 +1,13 @@
 # opcUa-aasV3-nodeset2
 Asset Administration Shell V3.0RC02 meta-model on OPC UA
-In development
+Work in progress
 
 ## Description
 
 This implementation is inspired by the deprecated [OPC 30270](https://opcfoundation.org/developer-tools/documents/view/273) Industry 4.0 Asset Administration Shell specification.
 
 ## Implementation
+This implementation was made using Siemens OPC UA Modeling Editor 2.6.3
 
 ### Primitive Types
 The primitive type defined in the specification Details of the Asset Administration Shell part 1 [V3.0RC02](https://www.plattform-i40.de/IP/Redaktion/EN/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html) Chapter 5.7.12.2 are derived from the OPC UA type as follow:
